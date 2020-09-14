@@ -1,0 +1,11 @@
+C:\Users\Teteu\Desktop\Programming\PlenaTest\myapp\bin\Debug\netcoreapp2.1\myapp.deps.json
+C:\Users\Teteu\Desktop\Programming\PlenaTest\myapp\bin\Debug\netcoreapp2.1\myapp.runtimeconfig.json
+C:\Users\Teteu\Desktop\Programming\PlenaTest\myapp\bin\Debug\netcoreapp2.1\myapp.runtimeconfig.dev.json
+C:\Users\Teteu\Desktop\Programming\PlenaTest\myapp\bin\Debug\netcoreapp2.1\myapp.dll
+C:\Users\Teteu\Desktop\Programming\PlenaTest\myapp\bin\Debug\netcoreapp2.1\myapp.pdb
+C:\Users\Teteu\Desktop\Programming\PlenaTest\myapp\obj\Debug\netcoreapp2.1\myapp.csprojAssemblyReference.cache
+C:\Users\Teteu\Desktop\Programming\PlenaTest\myapp\obj\Debug\netcoreapp2.1\myapp.csproj.CoreCompileInputs.cache
+C:\Users\Teteu\Desktop\Programming\PlenaTest\myapp\obj\Debug\netcoreapp2.1\myapp.AssemblyInfoInputs.cache
+C:\Users\Teteu\Desktop\Programming\PlenaTest\myapp\obj\Debug\netcoreapp2.1\myapp.AssemblyInfo.cs
+C:\Users\Teteu\Desktop\Programming\PlenaTest\myapp\obj\Debug\netcoreapp2.1\myapp.dll
+C:\Users\Teteu\Desktop\Programming\PlenaTest\myapp\obj\Debug\netcoreapp2.1\myapp.pdb
